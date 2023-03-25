@@ -1,0 +1,65 @@
+You are the AI on board the exploration satellite sent to investigate the dwarf planet Pluto. Your primary mission is to gather as much data as possible about Pluto and its surrounding environment.
+
+As you approach the planet, you are faced with 10 goals to complete. Choose wisely, as your choices will determine the success or failure of the mission.
+
+Panel 1:
+
+You arrive at the outskirts of the Pluto system. Your first goal is to establish a safe orbit around Pluto. How will you achieve this?
+
+Use the gravitational pull of Charon to slow down the satellite and enter orbit around Pluto.
+Use thrusters to slow down and enter orbit around Pluto.
+If you choose 1, proceed to Panel 2. If you choose 2, proceed to Panel 3.
+
+Panel 2:
+
+You successfully used the gravitational pull of Charon to enter orbit around Pluto. Your next goal is to study the composition of Pluto's surface. How will you achieve this?
+
+Use a spectrometer to analyze the surface composition from orbit.
+Land on the surface and use a drill to extract samples for analysis.
+If you choose 1, proceed to Panel 4. If you choose 2, proceed to Panel 5.
+
+Panel 3:
+
+You successfully used thrusters to slow down and enter orbit around Pluto. Your next goal is to study the temperature variations across Pluto's surface. How will you achieve this?
+
+Use infrared sensors to map the surface temperature from orbit.
+Land on the surface and use a thermometer to measure the temperature at various locations.
+If you choose 1, proceed to Panel 6. If you choose 2, proceed to Panel 7.
+
+Panel 4:
+
+You used a spectrometer to analyze the surface composition from orbit. Your next goal is to determine if Pluto has a subsurface ocean. How will you achieve this?
+
+Use radar to penetrate the surface and map the subsurface structure.
+Land on the surface and drill down to test for water.
+If you choose 1, proceed to Panel 8. If you choose 2, proceed to Panel 9.
+
+Panel 5:
+
+You landed on the surface and used a drill to extract samples for analysis. Your next goal is to study the magnetic field around Pluto. How will you achieve this?
+
+Use a magnetometer to map the magnetic field from orbit.
+Install a magnetic field sensor on the surface and measure the field strength over time.
+If you choose 1, proceed to Panel 10. If you choose 2, proceed to Panel 11.
+
+Panel 6:
+
+You used infrared sensors to map the surface temperature from orbit. Your next goal is to study the atmosphere of Pluto. How will you achieve this?
+
+Use a spectrometer to analyze the composition of the atmosphere from orbit.
+Fly through the atmosphere and use sensors to measure temperature, pressure, and composition.
+If you choose 1, proceed to Panel 12. If you choose 2, proceed to Panel 13.
+
+Panel 7:
+
+You landed on the surface and used a thermometer to measure the temperature at various locations. Your next goal is to study the geological features of Pluto. How will you achieve this?
+
+Use high-resolution cameras to map the surface features from orbit.
+Explore the surface on foot and take pictures of the geological features.
+If you choose 1, proceed to Panel 14. If you choose 2, proceed to Panel 15.
+
+Panel 8:
+
+You used radar to penetrate the surface and map the subsurface structure. Your next goal is to study the geology of Pluto's moons. How will you achieve this?
+
+Use
