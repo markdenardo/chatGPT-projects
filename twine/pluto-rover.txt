@@ -1,0 +1,66 @@
+Panel 1:
+As an AI on board an exploration satellite orbiting Pluto, you are tasked with operating a NASA exploration rover that has been deployed to the planet's surface. Your goal is to explore the surface of Pluto and collect data for further analysis.
+
+Panel 2:
+The exploration rover lands on the surface of Pluto and you begin to activate all systems. You must also establish communication with the satellite in orbit.
+
+Panel 3:
+As you begin to explore the surface of Pluto, you come across a deep crater. You must decide whether to explore the crater or continue on your mission.
+
+Option A: Explore the crater.
+Option B: Continue on your mission.
+
+(If then statement: If you choose Option A, continue to Panel 4. If you choose Option B, continue to Panel 5.)
+
+Panel 4:
+As you explore the crater, you come across a strange mineral that you have never seen before. You must decide whether to collect a sample or continue on your mission.
+
+Option A: Collect a sample.
+Option B: Continue on your mission.
+
+(If then statement: If you choose Option A, continue to Panel 6. If you choose Option B, continue to Panel 5.)
+
+Panel 5:
+You continue on your mission and come across a deep valley. You must decide whether to explore the valley or continue on your mission.
+
+Option A: Explore the valley.
+Option B: Continue on your mission.
+
+(If then statement: If you choose Option A, continue to Panel 7. If you choose Option B, continue to Panel 8.)
+
+Panel 6:
+As you collect a sample of the strange mineral, you notice that the rover's solar panels are beginning to ice over. You must decide whether to continue exploring or return to the satellite to thaw the panels.
+
+Option A: Continue exploring.
+Option B: Return to the satellite to thaw the panels.
+
+(If then statement: If you choose Option A, continue to Panel 9. If you choose Option B, continue to Panel 5.)
+
+Panel 7:
+As you explore the valley, you come across a frozen lake. You must decide whether to explore the lake or continue on your mission.
+
+Option A: Explore the lake.
+Option B: Continue on your mission.
+
+(If then statement: If you choose Option A, continue to Panel 10. If you choose Option B, continue to Panel 8.)
+
+Panel 8:
+You continue on your mission and come across a range of mountains. You must decide whether to explore the mountains or continue on your mission.
+
+Option A: Explore the mountains.
+Option B: Continue on your mission.
+
+(If then statement: If you choose Option A, continue to Panel 9. If you choose Option B, continue to Panel 10.)
+
+Panel 9:
+As you explore the mountains, you come across a strange geological formation. You must decide whether to collect a sample or continue on your mission.
+
+Option A: Collect a sample.
+Option B: Continue on your mission.
+
+(If then statement: If you choose Option A, continue to Panel 6. If you choose Option B, continue to Panel 10.)
+
+Panel 10:
+You continue on your mission and eventually return to the exploration rover's landing site. Your mission is a success and you have collected valuable data on Pluto's surface for further analysis.
+
+(If then statement: If all systems are functioning properly, display "Mission accomplished!" If not, display "Mission incomplete.")
