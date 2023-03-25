@@ -1,0 +1,89 @@
+Sure, here's an example of an endless runner text adventure game with left, right, and jump choices, along with 50 different kinds of absurdist obstacles. The game loop consists of 10 panels, and the player must navigate through each panel while avoiding the obstacles.
+
+You find yourself running through a never-ending maze of bizarre obstacles. You can go left, right, or jump to avoid obstacles. Your goal is to see how far you can make it without hitting any obstacles.
+
+Panel 1:
+You encounter a giant banana peel in your path. Do you go left, right, or jump?
+
+Panel 2:
+You come across a swarm of flying tacos. Do you go left, right, or jump?
+
+Panel 3:
+A herd of unicorns blocks your path. Do you go left, right, or jump?
+
+Panel 4:
+A giant octopus attacks you with its tentacles. Do you go left, right, or jump?
+
+Panel 5:
+You encounter a horde of rabid penguins. Do you go left, right, or jump?
+
+Panel 6:
+A giant cheese wheel rolls towards you. Do you go left, right, or jump?
+
+Panel 7:
+A flock of angry seagulls dive-bombs you. Do you go left, right, or jump?
+
+Panel 8:
+You see a giant rolling ball of spaghetti coming towards you. Do you go left, right, or jump?
+
+Panel 9:
+A pack of wild llamas blocks your path. Do you go left, right, or jump?
+
+Panel 10:
+You encounter a giant dragon breathing fire. Do you go left, right, or jump?
+
+Congratulations! You've made it through 10 panels of bizarre obstacles. Can you make it through 50?
+
+Panel 11:
+A group of aliens with laser guns approach you. Do you go left, right, or jump?
+
+Panel 12:
+A horde of killer tomatoes attack you. Do you go left, right, or jump?
+
+Panel 13:
+A giant disco ball falls from the sky. Do you go left, right, or jump?
+
+Panel 14:
+A swarm of bees tries to sting you. Do you go left, right, or jump?
+
+Panel 15:
+You encounter a pack of werewolves. Do you go left, right, or jump?
+
+Panel 16:
+A giant mallet comes crashing down towards you. Do you go left, right, or jump?
+
+Panel 17:
+A horde of zombie chickens block your path. Do you go left, right, or jump?
+
+Panel 18:
+A giant octopus with a top hat attacks you. Do you go left, right, or jump?
+
+Panel 19:
+A pack of ninja cats approaches you. Do you go left, right, or jump?
+
+Panel 20:
+You encounter a giant flamingo. Do you go left, right, or jump?
+
+Panel 21:
+A swarm of killer bees tries to sting you. Do you go left, right, or jump?
+
+Panel 22:
+A herd of stampeding elephants blocks your path. Do you go left, right, or jump?
+
+Panel 23:
+A pack of velociraptors chase after you. Do you go left, right, or jump?
+
+Panel 24:
+A giant pumpkin rolls towards you. Do you go left, right, or jump?
+
+Panel 25:
+You encounter a group of ghosts. Do you go left, right, or jump?
+
+Panel 26:
+A horde of ninja llamas blocks your path. Do you go left, right, or jump?
+
+Panel 27:
+A giant monster truck approaches you. Do you go left, right, or jump?
+
+Panel 28:
+A group of dancing aliens try to abduct you
